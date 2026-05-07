@@ -1,25 +1,5 @@
 # How to Really Learn Math
 
-## Suggestions
-
-That is interesting that some other Mathematics professors publish their notes on the same topic, for example:
-
-1) Gallian: https://www.d.umn.edu/~jgallian/advice.html
-
-2) SJSU dept of Math: https://www.sjsu.edu/math/advising/tipsforsuccess/index.html
-
-3) Paul's : https://tutorial.math.lamar.edu/extras/studymath/howtostudymath.aspx
-
-4) Ohio State University: https://math.osu.edu/undergrad/non-majors/resources/study-math-college 
-
-5) more: https://www.math.uh.edu/~dblecher/pf2.html
-
-6) etc...
-
-It looks like it is a hot topic.
-
-# Who are you and what is this?
-
 I am Yan X Zhang, a mathematician. I have taught mathematics (ranging from lower-division undergraduate to graduate) at Harvard, MIT, UC Berkeley, and at San Jose State, through roles from course assistant to professor. Also, I have done extensive teaching/mentoring of both math and non-math subjects in non-classroom settings such as MOP, MIT PRIMES, RSI, and SPARC, biasing towards experience with "gifted" / skilled students. I have tempered many ideas through years of observation and experimentation during these experiences; I want to use them to help people learn and help people learn to learn.
 
 I get many requests asking "how to study math" or "how to do better on exams," often from students but also from others I meet. These questions have forced me to rethink the core of learning math, so I started to collect advice that actually worked, optimizing for:
@@ -32,44 +12,6 @@ This document is my summary of the core of the advice and experience I collected
 (if you are already doing really well and want to *build strengths* instead, you'll need a different set of advice because these two are fundamentally different mentalities; my tl;dr for you in that case would be to collect chicken soup / inspiration and chase what is fun and exciting for you, ideally in form of projects instead of book learning)
 
 One thing I appreciated from the great book "The Inner Game of Tennis" is that while it is about more than tennis and it is written for more than tennis players, keeping it concretely as a tennis book focuses the book and makes its general lessons easier to understand. Therefore, while I think that you will also get something out of this document even if you are not a student or if you're learning something besides math, I want to focus my voice to target my students trying to get better at math.
-
-## COMMENT
-
-### Who is it for?
-
-This is for people who think they're not efficient at learning and want to get better. 
-
-This is not for people who:
-1. think they are already "good enough" at learning, 
-2. have a very strong identity of "this is who I am," 
-3. are really prioritizing other things in life right now.
-
-Important thing about this list: I am **not** doing the professor bullshit where I'm guilting you into thinking you have to listen to what I say; being passive-aggressive is lame. I am literally saying exactly what I mean: unless you are in an especially open-minded mood, don't take my advice -- because it won't work!
-
-The main reason is this: the things that I'm suggesting here is *hard* and may require deep personal change. If you are not looking for that stuff, than reading this will only confuse you or even irritate you.
-
-I'll be straight with you. I had students who actively did not want advice, kept doing what they did without listening to my advice, and were satisfied with their grades. That's fine! 
-
-(sadly, some of these people were getting F's, kept doing what they did, and kept getting F's.) 
-
-Also, you have the **right** to care about other things more, like personal problems, love and relationships, finances, your band, etc. than being a good student. I do want you to be a good student, but I want you to be happy with things you find more important first. 
-
-The bottom line is: I'm not trying to offend you. I value your time. If you're too busy or just not feeling it, it's **okay** and I understand. But if you do have the time and really want to learn about learning, I (along with the spirits of my old students) will now try my best to help you.
-
-
-# COMMENT What is learning?
-
-What do I mean by *learning*? I mean your ability to get *better* at something. Note this is not about how good you *are*. You can be strong at math but weak at *learning* math. If you were better at learning math, you can save a ton of time compared to a version of you that were weak at learning it.
-
-Mental experiment: if you "just played" volleyball everyday for an hour or two, then in 2000 hours you are bound to be pretty good compared to normal folk. But I think you'd be better if you spent 1000 hours in a team, with each practice session having a goal (and drills to hit the goal, games to train the goal, and a coach to give you goals). This means you could have saved 1000 hours. 1000 hours is a very very long time; you could have watched 500 movies.
-
-I'm not pretending to have figured it all out. It took me a long time to realize how **weak** I was at learning math (and I am finding inefficiencies in my own learning even now). The hardest part for me was admitting to myself __I was bad at learning math, even though I was pretty *good at math!*__ I felt really stupid when I realized this, but once I did, I got a lot better and started learning faster.
-
-  **Painful Truth**: many of us tell ourselves that everyone else who is learning faster are "just smarter." While it's true that some people *are* just smarter than us in various ways, telling this to ourselves is often just a way to avoid trying, which trains us to stay weak at learning, even though we could have gotten better at learning if we actually tried.
-
-## COMMENT
-
-  **Painful Truth**: Most people are not very at learning. If you are weak at learning, you will likely find it very hard to get a competitive job that requires real skills. This is because if you do not learn skills quickly, you are at a disadvantage compared to people who learn skills quicker than you, even if you have a head start compared to them.
 
 # What is the problem?
 
@@ -458,4 +400,4 @@ Good luck. If you have anything to add, contact me. People like you help make th
 
 -----------------------------
 
-Yan X Zhang (last update: 11/2020), with thanks to my ex-students and Laura Deming.
+Yan X Zhang (last update: 5/2026), with thanks to my ex-students and Laura Deming.
