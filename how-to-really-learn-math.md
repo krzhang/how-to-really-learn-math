@@ -1,25 +1,24 @@
 # How to Really Learn Math
 
-I am Yan X Zhang, a mathematician. I have taught mathematics (ranging from lower-division undergraduate to graduate) at Harvard, MIT, UC Berkeley, and at San Jose State, through roles from course assistant to professor. Also, I have done extensive teaching/mentoring of both math and non-math subjects in non-classroom settings such as MOP, MIT PRIMES, RSI, and SPARC, biasing towards experience with "gifted" / skilled students. I have tempered many ideas through years of observation and experimentation during these experiences; I want to use them to help people learn and help people learn to learn.
+I am Yan X Zhang, a mathematician. I have taught mathematics (including roles from CA to professor) at Harvard, MIT, UC Berkeley, and at San Jose State. I have done extensive teaching/mentoring of both math and non-math subjects in non-school settings such as MOP, MIT PRIMES, RSI, and SPARC. I am constantly learning and experimenting pedagogically with teachers in different fields from languages to music. I want to use all this experience to help people learn and help people learn to learn.
 
-I get many requests asking "how to study math" or "how to do better on exams," often from students but also from others I meet. These questions have forced me to rethink the core of learning math, so I started to collect advice that actually worked, optimizing for:
+I get many requests asking "how to study math" or "how to do better on exams," often from students but also from friends. These questions forced me into having many of the same conversations over and over, but they also helped me rethink the core of learning math, so I started to collect advice that actually worked, optimizing for:
 1. things that *need to be said, even though they're hard to hear.* You'll see many of them, marked as **Painful Truths**. I will be realistic and not just feed you chicken soup. 
 2. things that *work for many groups*; there is a lot of advice I would tailor for "MIT students," or "San Jose State math students," or "students that lacked confidence" that would be horrible advice if given to other students! I wanted to focus on the core. 
-3. things that *the student can do,* instead of just blaming the system. The system is (and should be!) often blamed -- incompetent professors, resource balance,  lack of support, etc. all contribute to failure outside of the students' control. However, what's useful *for students* is to have advice that they can use to improve any situation, even if unfair or difficult, since this way the students can actually be empowered instead of having to passively wait for structural or political change.
+3. things that *the student can do,* instead of just blaming the system. The system is (and should be!) often blamed -- incompetent professors, resource balance, lack of support, bad economics, etc. all contribute to failure outside of the students' control. However, what's useful *for students* is to have advice that they can use to improve any situation, even if unfair or difficult, since this way the students can actually be empowered instead of having to wait for structural or political change.
 
-This document is my summary of the core of the advice and experience I collected, focusing on *overcoming weaknesses.* Much of it applies to learning things in general, not just math, as it turns out that struggling students everywhere struggle in similar ways, whether it be a SJSU engineer struggling in math class or a SPARC high school "mathlete" struggling with modeling human social interactions. 
-
-(if you are already doing really well and want to *build strengths* instead, you'll need a different set of advice because these two are fundamentally different mentalities; my tl;dr for you in that case would be to collect chicken soup / inspiration and chase what is fun and exciting for you, ideally in form of projects instead of book learning)
-
-One thing I appreciated from the great book "The Inner Game of Tennis" is that while it is about more than tennis and it is written for more than tennis players, keeping it concretely as a tennis book focuses the book and makes its general lessons easier to understand. Therefore, while I think that you will also get something out of this document even if you are not a student or if you're learning something besides math, I want to focus my voice to target my students trying to get better at math.
+Two final remarks:
+1. I focus on *overcoming weaknesses.* For some people, they should work on *building strengths, which asks for different advice since these two are fundamentally different mentalities; my tl;dr for you in that case would be to collect positive feelings / inspiration and chase what is fun and exciting for you, ideally in form of projects instead of book learning.
+2. Much of it applies to learning anything, not just math, as it turns out that struggling students everywhere struggle in similar ways, whether it be a SJSU engineer struggling in math class or a high school "math star" struggling with modeling human social interactions. However, one of the biggest problems with math teachers is ~we~ they try to generalize everything so much that it is harder to understand. Taking a lesson from "The Inner Game of Tennis," while I think that you will also get something out of this document even if you are not a student or if you're learning something besides math, I want to focus our *setting* on *my students* trying to get better at *math*.
 
 # What is the problem?
 
 I think 99% of the problems come down to one simple
 
-   **Painful Truth**: The main reason that most people get stuck when learning is that when (or if) they practice, they practice what they are *good* at instead of what they are *unskilled* at. For example, they're weak at solving problems and good at reading. So when they review, they read. They'll then feel good (since they're good at reading), and they continue being afraid to actually solve problems by themselves, because they feel the time they spent on reading "should" pay off magically, like the way movies tell you that if you just put in the time you'll become fine. Then on the actual exam they are not asked to read, but to solve problems. Since they spent their time reading instead of solving problems, they fail the exam. 
+**Painful Truth**: The main reason that most people get stuck when learning is that when (or if) they practice, they practice what they are *good* at instead of what they are *unskilled* at. For example, they're weak at solving problems and good at reading. So when they review, they read. They'll then feel good (since they're good at reading), and they continue being afraid to actually solve problems by themselves, because they feel the time they spent on reading "should" pay off magically, like the way movies tell you that if you just put in the time you'll become fine. Then on the actual exam they are not asked to read, but to solve problems. Since they spent their time reading instead of solving problems, they fail the exam. 
 
-Imagine if a swimmer goes up to you and asks "I understand swimming when I watch swimming Youtube videos, but I can't pass a swim test." You can practice swimming by watching swimming videos on Youtube or swimming in the pool. The former will probably help you, but if you have a swimming exam in a pool (as opposed to an exam where you are tested on your knowledge of Youtube swimming videos), you'd have better spent time swimming in the pool. 
+1. Imagine if a swimmer goes up to you and asks "I understand swimming when I watch swimming Youtube videos, but I can't pass a swim test." You can practice swimming by watching swimming videos on Youtube or swimming in the pool. The former will probably help you, but if you have a swimming exam in a pool (as opposed to an exam where you are tested on your knowledge of Youtube swimming videos), you'd have better spent time swimming in the pool. 
+2. This comes up a lot in language learning; if you're stuck on speaking a new language, while reading 5-10 more books in the target language might help you, you probably want to bravely start speaking to someone (even yourself) if you want to efficiently get better at speaking.
 
 # What's the solution?
 
@@ -44,18 +43,6 @@ Coming up, I will isolate problems so common that I hear them every single time 
 
 # How to solve the problems I hear every semester
 
-## COMMENT
-
-After you find a specific weakness, your goal is now to train that weakness. How do you do that? You do a *drill.* By that, I mean **a small activity that isolates your weakness.** (athletes are among the most "obvious" examples of human excellence. Their coaches have figured out how to improve them in a very competitive setting. I learn a lot about teaching and learning from reading what coaches have to say; so these ideas about drilling come straight from coaching and deliberate practice literature) 
-
-Mental experiment: Suppose Stephanie Curry shoots with 95% accuracy from the left baseline and 54% from the right baseline. What do you think her coach does with her during shooting practice? It's not shooting from the left baseline.
-
-Well - this depends on your weaknesses! (that's why you do that first.)
-- If your weakness is solving problems, then if you are just reading your textbook/notes, **you are practicing the skill of reading, not directly understanding how to solve problems**. Thus, while reading is good, to succeed at your goal of solving problems, you must be spending more time solving problems, and less time reading. 
-- If you are actually pretty strong on solving problems, but weak at understanding problem statements, maybe your goal should be to **get better at reading**, so instead of doing problems, you should actually read more books! 
-
-What this means is you should read your book/notes to understand **specific** things. It is much easier for us to learn when we have specific goals: If you find a definition you don't know, read your book. If you think the problem looks like something you saw before, read your book to find the similarity. Occasionally, read your book broadly in order to find the holes in your knowledge; this won't train you to solve problems, but will find you problems to solve. 
-
 ## "I can't understand lectures"
 
   **Painful Truth**: you are probably not trying to pay attention to the lectures, because your brain is doing something else (thinking about your dreams, watching a Youtube video, etc.). You're also probably training the skill of "watching the professor talk" as opposed to "understanding the professor." You need to make "understanding the professor" a goal.
@@ -74,25 +61,17 @@ For self-learners, this applies to watching educational videos too. Each time th
 
 This is probably the biggest trap of them all. (I hear this from about 5 students every year, which probably represents more like 500). 
 
-  **Painful Truth:** If you catch yourself saying this, 10 (not even 9) times out of 10 this simply means  **your skill of following lecture is good (and important!), but you have not been practicing your skill of solving problems.** These are **different** skills, in the same way that reading and writing French are different skills. If you are bad at writing French, you *might* get there from reading a lot of French, but you are probably better off writing French instead. Similarly, to get better, you **must** admit to yourself that this is a weakness that you have to work on (this is where the self-honesty comes in), set your goal to solving problems, and face that goal by drilling problems.
-
+  **Painful Truth:** If you catch yourself saying this, 10 (not even 9) times out of 10 this simply means  **your skill of following lecture is decent, but you have not been practicing your skill of solving problems.** These are **different** skills, in the same way that reading and writing French are different skills. If you are bad at writing French, you *might* get there from reading a lot of French, but you are probably better off writing French instead. Similarly, to get better, you **must** admit to yourself that this is a weakness that you have to work on (this is where the self-honesty comes in), set your goal to solving problems, and face that goal by drilling problems.
 
 1. So how do you train it? Find a drill. 
 2. Drill: solve a problem. On your own, not by looking it up on the internet.
 3. Go solve 2 problems. You now got better at solving problems. Take a break. 
 
-Always ask yourself: am I training myself to swim? Or am I training myself to watch swimming videos?
-
-### COMMENT
-
-In my lectures, I often take *very* long pauses when I ask questions, until students answer (and often I will not call on a student who has answered recently). The reason I do this is to make the students train the skill of "solving problems." Those periods of silence are probably actually the most useful periods in the class for learning, because students get to train the skill of solving problems. The parts where students listen to me talk are actually less important, because they're training the skill of "following lecture," which is a good skill but not the skill of solving problems. 
-
-The ideal would be to actually go into the pool **and** watch swimming videos, probably watching videos that address your weaknesses that you learn from actually swimming into the pool. It's important when you say "I understand swimming in videos, but not on a swimming "
-
+Always ask yourself: **am I training myself to swim? Or am I training myself to watch swimming videos?**
 
 ## "I understand things in homework, but not on exams..."
 
-  **Painful Truth** 9 times out of 10 this is because you didn't actually solve your own homework problems; you told yourself that by looking up things online or looking at your friends' homework, you're actually practicing how to solve problems -- the painful truth is the only thing you're practicing is... how to look things up online or how to rewrite your friends' homework solutions in your own words. You weren't practicing how to solve problems. If this honestly doesn't describe you, the most likely weakness is "dealing with time pressure."
+  **Painful Truth** 9 times out of 10 this is because you didn't actually solve your own homework problems; you told yourself that by looking up things online or looking at your friends' homework or by *reading* your LLM output, you're actually practicing how to solve problems -- the painful truth is the only thing you're practicing is... how to look things up online or how to rewrite your friends' homework solutions / LLM output in your own words. You weren't practicing how to solve problems. If this honestly doesn't describe you, the most likely weakness is "dealing with time pressure."
 
 In either case...
 
@@ -142,17 +121,6 @@ This also applies to lectures. Suppose I say "permutation" during a lecture seve
 
 If you understand psychology, you also understand that all this means that **every time you don't look up something, you are actually training yourself to NOT look up things**, which directly hurts you on your foundation, which directly hurts your goal of solving problems (because you need foundation). Similarly, every time you don't ask a question that would have helped you in class because you're afraid to look dumb, you are **training yourself to not ask questions**, which means you'll just ask fewer questions later.
 
-
-## COMMENT
-
-### "How do I read theorems / books better?"
-
-When you read a proof of a theorem or a homework, think "**How can I use this to solve problems?**" Most of the time, you are probably training the skill of "remembering the proof." This is not a skill you want on the exam, because the exam is **not about you remembering proofs.** It is -- yeah, yeah -- **about you solving problems**. 
-
-This lesson is very generalizable; say you are learning about design.
-
-This is why I tell you to listen to my thinking process, not just write down my proofs, because the thinking process is the thing that allows you to solve problems, not memorizing my proof.
-
 ## "I want some secret sauce"
 
 Well, not exactly that, but a group of questions people **always** ask that are usually much less important than they sound:
@@ -170,6 +138,7 @@ You already have almost an infinite source of problems:
 - Pick a random theorem from the book that seems relevant. Try to prove it.
 - Pick an old homework problem. Try to solve it. The best problems to solve are those where you got help from somewhere else. Now you can ask yourself the painful but good question "Did I actually understand, or did I just copy someone else?" (Yes, I did this exercise and learned a lot about myself.)
 - Look up problems on the internet. There are many other courses out there with the same subject. Many of them have solutions.
+- Ask an LLM to give you problems. This is one of the best ways to actually use LLMs. Then solve the problems (don't ask the LLM to solve it for you).
 - (For advanced students) Wonder about something, like "hmm, are there more surjections than injections?" and solve your own problem. For beginner/intermediate students this is not that helpful, because you won't really know if your solution is right. For advanced students who have confidence checking their own solutions though, this is a great strength builder. 
 
 Important: I'm **not** saying it is bad to want to do more problems (especially if you are advanced) and you are **always** welcome to ask. My point is that the "Pokemon collector" mindset of trying to collect more problems and "secret sources" is probably not going to help you **if you aren't using what you already have**. 
@@ -186,11 +155,9 @@ If you suggested 5 different Spanish books to your friend who says they read Spa
 
 It is really convenient to blame the skill instead of yourself. Most of us (hey, me too) hate admitting to ourselves that we are simply unskilled at something, and would love to blame something else instead. The painful truth is that reading math books and abstraction is a totally obtainable skill (it just takes time), in the same way reading an adult-level book in a different language is a totally obtainable skill (it just takes time). 
 
-Don't blame the skill if you don't put in the time.
-
 ## "Everything feels hard..."
 
-Math is hard. My math classes are hard. They're hard because I have high expectations of you and think you can succeed. You're not going to hit high expectations unless you work hard. My goal is not to make you **feel** good. Your friends can do that. My goal is to make you **be** good. 
+Math is hard. My math classes are hard. They're hard because I have high expectations of you and think you can succeed. You're not going to hit high expectations unless you work hard. My goal is not to make you **feel** good. Your friends and your video games (the non skill-based ones, at least) can do that. My goal is to make you **be** good. 
 
 The biggest problem here is that **feeling uncomfortable is what learning feels like.** A recurring theme in education is that students who are learning actually feel they're struggling -- if you are not struggling, you're probably not learning. In particular, if you're not confused in lecture, you're probably not learning from them either!
 
@@ -214,7 +181,7 @@ However, I **can** give you advice in the form of habits that I see over multipl
 
 they do the other things in this essay. 
 
-I'm not trying to be snarky. How do you think I found the material for this document? I'm not making this stuff up. I looked at people who *improved* and summarized their patterns. By copying their patterns, you can become like them and start learning faster.
+I'm not trying to be snarky. How do you think I found the material for this document? I'm not making this stuff up. I looked at people who *improved* and summarized their patterns. I asked them to contribute to this document. By copying their patterns, you can become like them and start learning faster.
 
 # The one weird trick that helps you take exams 200% better:
 
@@ -324,7 +291,7 @@ Do you see yourself scrolling through all of this? Are you on autopilot, or do y
 .
 
 
-One last chance. 
+One last chance to train the skill of stop autopiloting.
 
 .
 
@@ -377,16 +344,13 @@ If so, congrats. You've found the one weird trick.
 
 No, **I'm not talking about practicing the definition.** That was awesome for you to do, and I'm proud of you, and you should do it more, but that's not the point. 
 
-The point is that you found out how to trick yourself to actually **stop your autopilot of "scroll down and read a post like a mindless zombie" and actually do something different**. You found out how to be a person instead of a zombie, a person who can choose to do things, new things, different things. If you can do this for a math definition, you can do it for anything else. 
+The point is that you found out how to trick yourself to actually **stop your autopilot of "scroll down mindlessly" and actually do something different**. You found out how to be a person instead of a zombie, a person who can choose to do things, new things, different things. If you can do this for a math definition, you can do it for anything else. 
 
 The beautiful thing is I don't know what the actual trick you used was, because you had to come up with it yourself! (Feel free to message/email me and tell me. I'm interested in what works and what doesn't work. My experience is that the trick really changes from person to person, and very few things work for everyone)
 
 Next time you need to get yourself to do something (anything, math or not), use whatever you did that actually got yourself to practice the definition, because that will be the thing you can always rely on to stop being a zombie. That will be the thing you can rely on to stop being mediocre and actually try to be good. 
 
-But if you just scrolled here just to see what I had to say and didn't actually do the exercise... well, I think you worked on the skill of **reading a document I wrote** instead of **getting better at learning**.
-
-
-
+But if you just scrolled here just to see what I had to say and didn't actually do the exercise... well, I think you worked on the skill of **scrolling through a document** instead of **getting better at math**.
 
 # Final Words
 
@@ -396,7 +360,7 @@ It's sometimes easy to forget (and a blind spot for professors) that as a studen
 
 Finally, do not feel guilty if you feel you have fallen into the traps I mention -- I may have spent much more time in these traps than you have. Feeling guilty isn't productive and I don't expect you, or anybody really, to already be on top of these simple-sounding but very-hard-to-actually-do things. What **is** productive is, after making sure the rest of your life is in order, if you start learning more and learning better (whether it be in my math class, or volleyball, or elsewhere in life). That would actually be rewarding for you. And me.
 
-Good luck. If you have anything to add, contact me. People like you help make this document better.
+Good luck. If you have anything to add, contact me. People like you help make this document better. (sadly, I don't read email generally, so Discord me instead).
 
 -----------------------------
 
