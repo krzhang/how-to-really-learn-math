@@ -96,7 +96,7 @@ This is the second most common trap after "I understand the lectures, but not th
 
 If you have this issue, it is usually caused by you avoiding abstractions / formalism and becoming reliant on examples and visual notation, which are like training wheels. Everyone can (and should) ride bikes with training wheels, but eventually, it holds you back from actually learning to ride the bike. It is a very common problem, because having the examples and visual notation in your head *feels* like intuition... but it can hurt you. Why?
 
-If you understand how to read, then you understand what a problem *means*, because you can just read the words in the problem and understand what they mean. If you only understand examples and visual notation, then you only understand how to face problems if they look exactly like your old problems. If I add any twist, then the picture will look different, and you will not be able to understand the problem because you are not able to read abstraction. There's a reason I risk low teaching review scores to force abstraction onto my students -- abstraction is hard, you grumble, but that's where the real kung fu is and I want you to learn the actual kung fu. 
+If you understand how to read, then you understand what a problem *means*, because you can just read the words in the problem and understand what they mean. If you only understand examples and visual notation, then you only understand how to face problems if they look exactly like your old problems. If I add any twist, then the picture will look different, and you will not be able to understand the problem because you are not able to read abstraction. The problem is real life (including your future employers and future problems) won't give you problems that look exactly like what you have seen. You *need* to be able to adapt to different situations -- that's where the real kung fu is and I want you to learn the actual kung fu. 
 
 True artists and masters who talk about "intuition" are all backing that up by **tens of thousands** of hours of foundation (brush strokes, arpeggios, chords, memorizing chess endgame, hours in the weightroom, whatever). If you did 10, 20, or 100 examples and visual notation, sure, you might have some intuition. But if you're throwing around ``intuition'' in math class without understanding the definitions and the mathematical language... **you probably don't actually have enough intuition.**
 
@@ -114,15 +114,22 @@ There are no shortcuts.
 
 If my read is right, then the best thing I can give you is: *people don't really care about how dumb you look. They're too busy worrying about themselves.* Don't worry about what they are thinking, since they aren't thinking about you. Worry about getting better.
 
+Bonus: We can even train this "not being afraid to ask questions."
+
+1. So how do you train it? Find a drill.
+2. Drill: pretend a classmate of yours asked a question that was a bit simple. Pretend the teacher took some time and answered his/her question. Do you really care how dumb they looked? Will you care an hour from now? Do you feel happy for them actually? 
+4. Do this 2 times. You have now gotten better at realizing that it doesnt' really matter if you ask a question. Take a break. 
+5. (If you *did* end up finding yourself caring about / judging in an overfixated (or even gleeful) way on other people trying to ask questions to improve themselves, you have bigger issues outside the scope of this drill. I can't help you, but someone closer to you may be able to.)
+
 ## "I don't even know what the right questions to ask"
 
-As I said before, often the best thing to train is your weakest skill, which you have been avoiding but won't train itself. Similarly, the best questions to ask are **the most basic/"dumb" thing you don't understand**, which you have been avoiding but won't answer itself. The best thing you can do for your own learning is *to be honest with yourself* and ask these questions to yourself. 
+As I said before, often the best thing to train is your weakest skill, which you have been avoiding but won't train itself. Similarly, the best questions to ask are **the most basic/"dumb" thing you don't understand**, which you have been avoiding but won't answer itself. The best thing you can do for your own learning is *to be honest with yourself* and ask these questions. 
 
 For example: if you read a sentence containing the word "permutation", which came up a lot in your math class, and don't really know what it means, train yourself to stop and say ``Hmm. I see that I don't understand what 'permutation' means. I should learn it now.'' and look it up immediately (you can make a drill out of this, as we discussed in the last section). Think about it: suppose you didn't know what "permutation" means and you feel you're wasting your time reading about permutations. Why would you keep reading to "cyclic permutation" if you'll be wasting even more time there? 
 
-This also applies to lectures. Suppose I say "permutation" during a lecture several times, and you really have no idea what it means. In the next 15 minutes I'll probably still be talking about permutations. Do you really not care about your 15 minutes?  Value your time! It literally takes you 5 seconds to raise your hand and ask "what is a permutation?" Now you saved 15 minutes of your life. If you do this 50 times during a semester, you have saved 12+ hours. That's more than enough time to have a life-changing experience.
+This also applies to lectures. Suppose I say "permutation" during a lecture several times, and you really have no idea what it means. In the next 15 minutes I'll probably still be talking about permutations. Do you really not care about your 15 minutes?  Value your time! It literally takes you 5 seconds to raise your hand and ask "what is a permutation?" Now you saved 15 minutes of your life. If you do this 50 times during a semester, you have saved 12+ hours. 
 
-If you understand psychology, you also understand that all this means that **every time you don't look up something, you are actually training yourself to NOT look up things**, which directly hurts you on your foundation, which directly hurts your goal of solving problems (because you need foundation). Similarly, every time you don't ask a question that would have helped you in class because you're afraid to look dumb, you are **training yourself to not ask questions**, which means you'll just ask fewer questions later.
+If you understand psychology, you also understand that all this means that **every time you don't look up something, you are actually training yourself to NOT look up things**, which directly hurts you on your foundation. Similarly, every time you don't ask a question that would have helped you in class because you are afraid to look dumb, you are **training yourself to not ask questions**, which means you'll just ask fewer questions later.
 
 ## "I want some secret sauce"
 
