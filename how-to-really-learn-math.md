@@ -25,7 +25,7 @@ I think 99% of the problems come down to one simple
 
 # What's the solution?
 
-The solution seems fairly obvious: *do more of the uncomfortable things that fix what you are unskilled at, and do less of the comfortable things that practice what you are skilled at.* To actually do this you need a plan, something like:
+The solution seems simple: *do more of the uncomfortable things that fix what you are unskilled at, and do less of the comfortable things that practice what you are skilled at.* To actually do this is difficult (like many simple things). You need a plan, something like:
 
 1. Be honest to yourself.
 2. Make a goal after honestly looking at yourself and finding your weaknesses.
