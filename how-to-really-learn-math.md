@@ -1,15 +1,18 @@
 # How to Really Learn Math
 
-I am Yan X Zhang, a mathematician. I have taught mathematics (including roles from CA to professor) at Harvard, MIT, UC Berkeley, and at San Jose State. I have done extensive teaching/mentoring of both math and non-math subjects in non-school settings such as MOP, MIT PRIMES, RSI, and SPARC. I am constantly learning and experimenting pedagogically with teachers in different fields from languages to music. I want to use all this experience to help people learn and help people learn to learn.
+## What is this?
 
 I get many requests asking "how to study math" or "how to do better on exams," often from students but also from friends. These questions forced me into having many of the same conversations over and over, but they also helped me rethink the core of learning math, so I started to collect advice that actually worked, optimizing for:
 1. things that *need to be said, even though they're hard to hear.* You'll see many of them, marked as **Painful Truths**. I will be realistic and not just feed you chicken soup. 
 2. things that *work for many groups*; there is a lot of advice I would tailor for "MIT students," or "San Jose State math students," or "students that lacked confidence" that would be horrible advice if given to other students! I wanted to focus on the core. 
 3. things that *the student can do,* instead of just blaming the system. The system is (and should be!) often blamed -- incompetent professors, resource balance, lack of support, bad economics, etc. all contribute to failure outside of the students' control. However, what's useful *for students* is to have advice that they can use to improve any situation, even if unfair or difficult, since this way the students can actually be empowered instead of having to wait for structural or political change.
 
-Two final remarks:
-1. In this document, I focus on **overcoming weaknesses.** For some people (usually, but not limited to people who have no major weaknesses), they should work on **building strengths**, which requires different advice since these two are fundamentally different situations; my tl;dr for you in the latter case would be to collect positive feelings / inspiration and chase what is fun and exciting for you, ideally in form of projects instead of book learning.
+Two remarks:
+1. In this document, I focus on *overcoming weaknesses.* For some people (usually, but not limited to people who have no major weaknesses), they should work on *building strengths*, which requires different advice since these two are fundamentally different situations; my tl;dr for you in the latter case would be to collect positive feelings / inspiration and chase what is fun and exciting for you, ideally in form of projects instead of book learning.
 2. Much of what we discuss applies to learning anything, not just math, as it turns out that struggling students everywhere struggle in similar ways, whether it be a SJSU engineer struggling in math class or a high school "math star" struggling with modeling human social interactions. However, one of the biggest problems with math teachers is ~we~ they try to generalize everything so much that it is harder to understand. Taking a lesson from "The Inner Game of Tennis," I want to focus our *setting* on *my students* trying to get better at *math*, even though I think you can still get something out of this if you're not my student or if you are not learning math. 
+
+## Who are you? 
+I am Yan X Zhang, a mathematician. I have taught mathematics (including roles from CA to professor) at Harvard, MIT, UC Berkeley, and at San Jose State. I have done extensive teaching/mentoring of both math and non-math subjects in non-school settings such as MOP, MIT PRIMES, RSI, and SPARC. I am constantly learning and experimenting pedagogically with teachers in different fields from languages to music. I want to use all this experience to help people learn and help people learn to learn.
 
 # What is the problem?
 
