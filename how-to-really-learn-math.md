@@ -348,29 +348,35 @@ One last chance to train the skill of stop autopiloting.
 
 
 
-Did you do it?
+Did you do it? Yes or no only.
 
-If so, congrats. You've found the one weird trick. 
+## if YES
+
+Congrats. You've found the one weird trick. 
 
 No, **I'm not talking about practicing the definition.** That was awesome for you to do, and I'm proud of you, and you should do it more, but that's not the point. 
 
-The point is that you found out how to trick yourself to actually **stop your autopilot of "scroll down mindlessly" and actually do something different**. You found out how to be a person instead of a zombie, a person who can choose to do things, new things, different things. If you can do this for a math definition, you can do it for anything else. 
+The point is that you found out how to trick yourself to actually **stop your autopilot of "scroll down mindlessly" and actually do something different**. At that moment, you were a person instead of a zombie, a person who can choose to do things, new things, different things. If you can do this for a math, you can do it for anything else. 
 
-The beautiful thing is I don't know what the actual trick you used was, because you had to come up with it yourself! (Feel free to message/email me and tell me. I'm interested in what works and what doesn't work. My experience is that the trick really changes from person to person, and very few things work for everyone)
+And I don't even know what the actual trick you used was, because you had to come up with it yourself! (Feel free to message/email me and tell me. I'm interested in what works and what doesn't work. My experience is that the trick changes from person to person, and very few things work for everyone)
 
-Next time you need to get yourself to do something (anything, math or not), use whatever you did that actually got yourself to practice the definition, because that will be the thing you can always rely on to stop being a zombie. That will be the thing you can rely on to stop being mediocre and actually try to be good. 
+Next time you need to get yourself to do something (anything, math or not), use whatever you did that actually got yourself to practice the definition, because that will be the thing you can always rely on to stop being a zombie. 
 
-But if you just scrolled here just to see what I had to say and didn't actually do the exercise... well, I think you worked on the skill of **scrolling through a document** instead of **getting better at math**.
+## if NO
+
+But if you just scrolled here just to see what I had to say and didn't actually do the exercise... well, I think you got better at **scrolling through a document about getting better at math** instead of **getting better at math**.
 
 # Final Words
 
-I make no claims that all of these things will help everyone, because people are pretty diverse in learning styles. However, I do claim that they'll **probably** help you, because... honestly, we are all people, and we make very similar mistakes in learning, and by now I have seen a lot of learners. As a counterpoint (hey, I'm an honest guy), I had students who actively did not want advice, kept doing what they did without listening to my advice, and were satisfied with their grades. That's fine! (sadly, some of these people were getting F's, kept doing what they did, and kept getting F's.) All I'm hoping for here is to give advice that helps as many people as possible, knowing that all advice will miss some people because people are different.
+I make no claims that all of these things will help everyone, because people are pretty diverse in learning styles. However, I do claim that they'll **probably** help you, because... honestly, we are all people, and we make very similar mistakes in learning, and by now I have seen a lot of learners. 
 
-It's sometimes easy to forget (and a blind spot for professors) that as a student, you have the **right** to care about other things more than learning math, like personal problems, love and relationships, finances, your band, etc. I do want you to be a good student, but I want you to be happy with things you find more important first. It's very hard to actually execute on the type of advice I'm giving here unless you have the time and mental energy for them. These are __hard__ lessons to learn and took me many many years, and I remain a student to these lessons just like you.
+As a counterpoint (hey, transparency), I had students who actively did not want advice, kept doing what they did without listening to my advice, and were satisfied with their grades. That's fine! (sadly, some of these people were getting F's, kept doing what they did, and kept getting F's.) All I'm hoping for here is to give advice that helps as many people as possible, knowing that all advice will miss some people because people are different.
 
-Finally, do not feel guilty if you feel you have fallen into the traps I mention -- I may have spent much more time in these traps than you have. Feeling guilty isn't productive and I don't expect you, or anybody really, to already be on top of these simple-sounding but very-hard-to-actually-do things. What **is** productive is, after making sure the rest of your life is in order, if you start learning more and learning better (whether it be in my math class, or volleyball, or elsewhere in life). That would actually be rewarding for you. And me.
+It's sometimes easy to forget (and a blind spot for professors) that as a student, you have the **right** to care about other things more than learning math, like personal problems, love and relationships, finances, your band, etc. I do want you to be a good student, but I want you to be happy with things you find more important first. It's very hard to actually execute on the type of advice I'm giving here unless you have the time and mental energy for them. These are __hard__ lessons to learn and took me many many years, and I remain a student of these lessons just like you.
 
-Good luck. If you have anything to add, contact me. People like you help make this document better. (sadly, I don't read email generally, so Discord me instead).
+Finally, do not feel guilty or "bad" if you feel you have fallen into the traps I mention. Feeling guilty isn't productive; I don't expect you, or anybody really, to already be on top of these simple-sounding but very-hard-to-actually-do things. If it makes you feel better -- I probably spent much more time in these traps than you have!
+
+Good luck. I hope you start learning more and learning better (whether it be in math class, or volleyball, or elsewhere in life). If you have anything to add, contact me. (sadly, I don't read email generally, so Discord me instead).
 
 -----------------------------
 
