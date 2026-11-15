@@ -18,9 +18,18 @@ I am Yan X Zhang, a mathematician. I have taught mathematics (including roles fr
 
 I think 99% of the problems come down to one simple
 
-**Painful Truth**: The main reason that most people get stuck when learning is that when (or if) they practice, they practice what they are *good* at instead of what they are *unskilled* at. For example, they're weak at solving problems and good at reading. So when they review, they read. They'll then feel good (since they're good at reading), and they continue being afraid to actually solve problems by themselves, because they feel the time they spent on reading "should" pay off magically, like the way movies tell you that if you just put in the time you'll become fine. Then on the actual exam they are not asked to read, but to solve problems. Since they spent their time reading instead of solving problems, they fail the exam. 
+**Painful Truth**: The main reason that most people get stuck when learning is that when they practice, they practice what they are *comfortable* with instead of what they are *uncomfortable* with. For example:
 
-1. Imagine if a swimmer goes up to you and asks "I understand swimming when I watch swimming Youtube videos, but I can't pass a swim test." You can practice swimming by watching swimming videos on Youtube or swimming in the pool. The former will probably help you, but if you have a swimming exam in a pool (as opposed to an exam where you are tested on your knowledge of Youtube swimming videos), you'd have better spent time swimming in the pool. 
+1. They're weak at solving problems and good at reading.
+2. So when they actually "study", they read (or even easier, watching videos).
+3. They'll then feel good (since they're comfortable with reading or videos), and they continue being afraid to actually solve problems because they feel the time they spent on reading "should" pay off magically.
+4. Then on the actual exam they are not asked to read, but to solve problems.
+5. Since they spent their time reading instead of solving problems, they fail the exam.
+
+If you feel seen, this is intended -- I believe a majority (at least 50%) of my students have experienced this. As a result, any progress on solving this issue is a serious win for me.
+
+Related thoughts:
+1. Imagine if a swimmer goes up to you and asks "I understand swimming when I watch swimming videos, but I can't pass a swim test." You can practice swimming by watching swimming videos on Youtube or swimming in the pool. The former will probably help you, but if you have a swimming exam in a pool (as opposed to an exam where you are tested on your knowledge of Youtube swimming videos), you'd have better spent time swimming in the pool. 
 2. This comes up a lot in language learning; if you're stuck on speaking a new language, while reading 5-10 more books in the target language might help you, you probably want to bravely start speaking to someone (even yourself) if you want to efficiently get better at speaking.
 
 # What's the solution?
