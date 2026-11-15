@@ -22,11 +22,11 @@ I think 99% of the problems come down to one simple
 
 1. They're weak at solving problems and good at reading.
 2. So when they actually "study", they read (or even easier, watching videos).
-3. They'll then feel good (since they're comfortable with reading or videos), and they continue being afraid to actually solve problems because they feel the time they spent on reading "should" pay off magically.
+3. They'll then feel good (since they're comfortable with reading or videos), and they don't actually practice solving problems because they feel the time they spent on reading "should" pay off magically.
 4. Then on the actual exam they are not asked to read, but to solve problems.
 5. Since they spent their time reading instead of solving problems, they fail the exam.
 
-If you feel seen, this is intended -- I believe a majority (at least 50%) of my students have experienced this. As a result, any progress on solving this issue is a serious win for me.
+If you feel seen, this is intended -- I believe a majority (if not at least 90%) of my students have experienced this. As a result, any progress on solving this issue is a serious win for me.
 
 Related thoughts:
 1. Imagine if a swimmer goes up to you and asks "I understand swimming when I watch swimming videos, but I can't pass a swim test." You can practice swimming by watching swimming videos on Youtube or swimming in the pool. The former will probably help you, but if you have a swimming exam in a pool (as opposed to an exam where you are tested on your knowledge of Youtube swimming videos), you'd have better spent time swimming in the pool. 
